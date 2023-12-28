@@ -7,7 +7,7 @@ In the rapidly evolving landscape of the **21st century**, technology has become
 ---
 `The advent of social media platforms, for instance, has redefined the way we build and maintain connections.`
 On one hand, it has facilitated global communication, allowing individuals to connect with others regardless of geographical boundaries. 
-On the other hand, concerns have emerged about the ~~superficial nature of online interactions, where genuine human connections may be compromised~~ by curated online personas and the prevalence of virtual communication over face-to-face encounters. 😂 🎂
+On the other hand, concerns have emerged about the ~~superficial nature of online interactions, where genuine human connections may be compromised~~ by curated online personas and the prevalence of virtual communication over face-to-face encounters. 😂 🎂 use : for emojis. `Check out basics of markdown`
 
 Moreover, the pervasive use of smartphones and digital devices has altered the dynamics of personal interactions. 
 In social settings, individuals often find themselves engrossed in screens rather than engaging in meaningful conversations. 
