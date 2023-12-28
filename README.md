@@ -7,6 +7,9 @@ So first git clone <copied link> then make whatever changes and add files.
 Then git status can be done whenever to check.
 Then git add .
 Finally git commit -m "<Whatever message you wanna give>".
+Now git push origin <branch name>.
+
+Branch name is usually "main".
 In the rapidly evolving landscape of the **21st century**, technology has become an *integral part* of our daily lives, profoundly influencing how we communicate and connect with one another. 
 > While technological advancements have undeniably brought about convenience and efficiency, they have also sparked a discourse on the impact of these tools on human relationships.
 ---
