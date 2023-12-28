@@ -3,25 +3,25 @@
 ## The Impact of Technology on Human Connection
 
 
-So first git clone "copied link" then make whatever changes and add files. /n
-Then git status can be done whenever to check. /n
-Then git add . , . is for all files or you can name the file instead /n
-Finally git commit -m "Whatever message you wanna give". /n
-Now git push origin "branch name". /n
+So first git clone "copied link" then make whatever changes and add files. <br>
+Then git status can be done whenever to check. <br>
+Then git add . , . is for all files or you can name the file instead <br>
+Finally git commit -m "Whatever message you wanna give". <br>
+Now git push origin "branch name". <br>
 
-If you're making a repo in VSCode first, then create and modify a folder and git init  /n
-As usual add, commit. /n
-Then make a repo with the same name on github and copy link and git remote add origin "link" /n
-Now git remote -v to see that it's done /n
-Now git push origin main  /n
-Do git push -u origin main, to make origin main the default destination when you push  /n
-Use git branch to know what branches are there. /n
-git checkout is used to switch between branches /n
-To create a new branch, git checkout -b "name of branch"  /n
-git checkout "branch name" to switch branches /n
-git diff "branch name" to see what's different in that branch compared to the current branch /n
-git merge "branch name" to merge that with the current branch  /n
-Instead of merging, you can push the branch, go to github and create a pull request and later merge the pull request. /n
+If you're making a repo in VSCode first, then create and modify a folder and git init  <br>
+As usual add, commit. <br>
+Then make a repo with the same name on github and copy link and git remote add origin "link" <br>
+Now git remote -v to see that it's done <br>
+Now git push origin main  <br>
+Do git push -u origin main, to make origin main the default destination when you push  <br>
+Use git branch to know what branches are there. <br>
+git checkout is used to switch between branches <br>
+To create a new branch, git checkout -b "name of branch"  <br>
+git checkout "branch name" to switch branches <br>
+git diff "branch name" to see what's different in that branch compared to the current branch <br>
+git merge "branch name" to merge that with the current branch  <br>
+Instead of merging, you can push the branch, go to github and create a pull request and later merge the pull request. <br>
 
 
 
