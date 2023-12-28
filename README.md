@@ -22,6 +22,7 @@ git checkout "branch name" to switch branches <br>
 git diff "branch name" to see what's different in that branch compared to the current branch <br>
 git merge "branch name" to merge that with the current branch  <br>
 Instead of merging, you can push the branch, go to github and create a pull request and later merge the pull request. <br>
+git pull origin main, for getting the updates made on github locally. <br>
 
 
 
