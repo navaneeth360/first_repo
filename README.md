@@ -23,6 +23,8 @@ git diff "branch name" to see what's different in that branch compared to the cu
 git merge "branch name" to merge that with the current branch  <br>
 Instead of merging, you can push the branch, go to github and create a pull request and later merge the pull request. <br>
 git pull origin main, for getting the updates made on github locally. <br>
+git branch -d "branch name without quotes" to delete a branch. <br>
+
 
 
 
